@@ -1,0 +1,11 @@
+variable vpc_cidr_block {}
+variable "subnet_cidr_block" {}
+variable "availability_zone" {}
+variable "var.env_prefix" {}
+variable "env_prefix" {}
+variable "default_sg_id" {}
+variable "my_ip" {}
+variable "instance_type" {}
+variable "public_key_location" {}
+variable "priv_key_location" {}
+variable "subnet_id" {}
